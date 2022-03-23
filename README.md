@@ -1,5 +1,5 @@
 # roadmap
-ntfrtdao tech team roadmap
+nmclub tech team roadmap
 
 
 ## roadmap v0.1
